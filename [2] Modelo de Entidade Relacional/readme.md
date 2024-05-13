@@ -16,7 +16,7 @@ Este diretório contém os exercícios de modelagem de banco de dados realizados
 ### Relacionamentos:
 - Solicita, Analisa, Executa, Arquiva
 
-![Modelo Conceitual da Ordem de SErviço](imagem01.png)
+![Modelo Conceitual da Ordem de Serviço](https://github.com/rodolfo-lovera/dio-SQL-Database-Specialist/blob/main/%5B2%5D%20Modelo%20de%20Entidade%20Relacional/Imagem01.png)
 
 
 ## 2. Modelando uma Universidade
@@ -25,7 +25,7 @@ Este diretório contém os exercícios de modelagem de banco de dados realizados
 - Narrativas - Alunos, Disciplinas, Professores
 - Perguntas para compreender os requisitos: Quais informações de aluno e professor guardar? Qual média para aprovação? Haverá restrições ou diferentes visões?
 
-![Modelo Conceitual da universidade](imagem02.png)
+![Modelo Conceitual da universidade](https://github.com/rodolfo-lovera/dio-SQL-Database-Specialist/blob/main/%5B2%5D%20Modelo%20de%20Entidade%20Relacional/Imagem02.png)
 
 ## 3. Modelando um E-commerce
 
@@ -34,7 +34,7 @@ Este diretório contém os exercícios de modelagem de banco de dados realizados
 - Entidades: produtos, estoque, cliente, pedido, fornecedor
 
 
-![Modelo Conceitual do E-Commerce](imagem03a.png)
+![Modelo Conceitual do E-Commerce](https://github.com/rodolfo-lovera/dio-SQL-Database-Specialist/blob/main/%5B2%5D%20Modelo%20de%20Entidade%20Relacional/Imagem03a.png)
 
 ## Pontos Revisados e Melhorados:
 
@@ -42,7 +42,7 @@ Este diretório contém os exercícios de modelagem de banco de dados realizados
 - Pagamento: Criado uma entidade "Pagamento" para armazenar as formas de pagamento cadastradas por cada cliente (várias formas de pagamento por cliente).
 - Entrega: Adicionar atributos "Status da Entrega" e "Código de Rastreio" ao Pedido para acompanhar o status da entrega.
 
-![Modelo Conceitual do E-Commerce Refinado](imagem03b.png)
+![Modelo Conceitual do E-Commerce Refinado](https://github.com/rodolfo-lovera/dio-SQL-Database-Specialist/blob/main/%5B2%5D%20Modelo%20de%20Entidade%20Relacional/Imagem03b.png)
 
 ## 4. Controle de Ordens de Serviço em Oficina Mecânica
 
@@ -59,7 +59,6 @@ O objetivo deste exercício é criar um esquema conceitual que represente as ent
 - Os mecânicos possuem código, nome, endereço e especialidade.
 - Cada OS possui: número da OS, data de emissão, valor, status e uma data para conclusão dos trabalhos.
 
-![Modelo Conceitual da Oficina](imagem04.png)
-
+![Modelo Conceitual da Oficina](https://github.com/rodolfo-lovera/dio-SQL-Database-Specialist/blob/main/%5B2%5D%20Modelo%20de%20Entidade%20Relacional/Imagem04.png)
 
 
